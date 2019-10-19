@@ -1,0 +1,45 @@
+{
+  "site": {
+    "title": "Fazlı Temizel - UX / UI Designer ",
+    "desc": "Offical portoflio list ana priew pages",
+    "favicon": ""
+  },
+  "about": {
+    "top": {
+      "avatar": "https://avatars3.githubusercontent.com/u/40994145?s=460&v=4",
+      "buttons": [
+        {
+          "url": "https://tr.linkedin.com/in/fazlitemizel",
+          "text": "CV",
+          "color": "gray"
+        },
+        {
+          "url": "#<a href="tel:05326911610"></a>",
+          "text": "Hire Me",
+          "color": "yellow"
+        }
+      ]
+    },
+    "content": {
+      "title": "I’m Fazlı,",
+      "subtitle": "XUI Designer, from İstanbul.",
+      "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    "social": [
+      {"url": "https://www.twitter.com/fazlitemizel", "icon": "twitter"},
+      {"url": "https://github.com/fazlio", "icon": "github"},
+      {"url": "https://tr.linkedin.com/in/fazlitemizel", "icon": "linkedin-in"},
+      {"url": "https://instagram.com/fazlitemizel", "icon": "instagram"},
+      {"url": "https://dribbble.com/fazli", "icon": "dribbble"},
+      {"url": "https://behance.net/fazlitemizel", "icon": "behance"}
+    ]
+  },
+  "footer": {
+    "copy": "Fazlı Temizel",
+    "links": [
+      {"url": "https://behance.net/fazlitemizel", "text": "Behance"},
+      {"url": "https://github.com/fazlio", "text": "Github"},
+      {"url": "https://dribbble.com/fazli", "text": "Dribbble"}
+    ]
+  }
+}
