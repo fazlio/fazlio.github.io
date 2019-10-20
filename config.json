@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Fazlı Temizel - UX / UI Designer ",
+    "title": "FZLTMZL - UX / UI Designer ",
     "desc": "Offical portoflio Pages",
     "favicon": ""
   },
@@ -22,7 +22,7 @@
     },
     "content": {
       "title": "I’m Fazlı,",
-      "subtitle": "XUI Designer, from İstanbul.",
+      "subtitle": "X-UI Designer, from İstanbul.",
       "info": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     },
     "social": [
@@ -35,7 +35,7 @@
     ]
   },
   "footer": {
-    "copy": "Fazlı Temizel",
+    "copy": "FZLTMZL",
     "links": [
       {"url": "https://behance.net/fazlitemizel", "text": "Behance"},
       {"url": "https://github.com/fazlio", "text": "Github"},
