@@ -1,3 +1,8 @@
 # fazli.github.io
 
-Offical Portfolio Page 
+Offical Portfolio Pages
+
+----
+
+Design by fazlio.github.io
+Code by berkpw.github.io

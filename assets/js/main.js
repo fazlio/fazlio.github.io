@@ -14,8 +14,8 @@ const app = new Vue({
   router,
   data() {
     return {
-      config: null,
-      year: new Date().getFullYear()
+      load: false,
+      config: ""
     }
   },
   beforeCreate() {
@@ -25,6 +25,7 @@ const app = new Vue({
       document.title = this.config.site.title;
       $('meta[name="description"]').attr("content", this.config.site.desc);
       $('link[rel="shortcut icon"]').attr("href", this.config.site.favicon);
+      this.load = true;
     });
   }
 }).$mount('#app');

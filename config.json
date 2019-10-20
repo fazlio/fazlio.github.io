@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "FZLTMZL - Product Designer ",
-    "desc": "Offical portoflio Pages",
+    "title": "fzltmzl - Product Designer",
+    "desc": "Fazlı Temizel - Offical portoflio Pages",
     "favicon": "https://github.githubassets.com/favicon.ico"
   },
   "about": {
@@ -34,7 +34,7 @@
     ]
   },
   "footer": {
-    "copy": "FZLTMZL",
+    "copy": "fzltmzl",
     "links": [
       {"url": "https://behance.net/fazlitemizel", "text": "Behance"},
       {"url": "https://github.com/fazlio", "text": "Github"},
