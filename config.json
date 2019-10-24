@@ -14,7 +14,7 @@
       "type": "image/png"
     }
   ],
-
+  
   "about": {
     "top": {
       "avatar": "https://avatars3.githubusercontent.com/u/40994145?s=460&v=4",
@@ -34,16 +34,35 @@
     "content": {
       "title": "Fazlı,",
       "subtitle": "I'm a product designer live in istanbul",
-      "info": "I enjoy turning complex problems into simple, beautiful and intuitive designs. I'm delivers digital and brand experience for a wide range of clients, from start-ups to established companies.  Fazlı, Specialises in User Interface Design, User Experience, Data Visualisation, Concepting, Branding, Illustrations, Photography, Typography, Art and Creative Direction."},    },
-     "social": [
-        {"url": "https://www.twitter.com/fazlitemizel", "icon": "twitter"},
-        {"url": "https://github.com/fazlio", "icon": "github"},
-        {"url": "https://tr.linkedin.com/in/fazlitemizel", "icon": "linkedin-in"},
-        {"url": "https://instagram.com/fazlitemizel", "icon": "instagram"},
-        {"url": "https://dribbble.com/fazli", "icon": "dribbble"},
-        {"url": "https://behance.net/fazlitemizel", "icon": "behance"}
-      ]
+      "info": "I enjoy turning complex problems into simple, beautiful and intuitive designs. I'm delivers digital and brand experience for a wide range of clients, from start-ups to established companies.  Fazlı, Specialises in User Interface Design, User Experience, Data Visualisation, Concepting, Branding, Illustrations, Photography, Typography, Art and Creative Direction."
+    }
   },
+  "social": [
+    {
+      "url": "https://www.twitter.com/fazlitemizel",
+      "icon": "twitter"
+    },
+    {
+      "url": "https://github.com/fazlio",
+      "icon": "github"
+    },
+    {
+      "url": "https://tr.linkedin.com/in/fazlitemizel",
+      "icon": "linkedin-in"
+    },
+    {
+      "url": "https://instagram.com/fazlitemizel",
+      "icon": "instagram"
+    },
+    {
+      "url": "https://dribbble.com/fazli",
+      "icon": "dribbble"
+    },
+    {
+      "url": "https://behance.net/fazlitemizel",
+      "icon": "behance"
+    }
+  ],
   "portfolio": [
     {
       "thumbnail": "https://picsum.photos/500",
@@ -70,9 +89,18 @@
   "footer": {
     "copy": "fzltmzl",
     "links": [
-      {"url": "https://behance.net/fazlitemizel", "text": "Behance"},
-      {"url": "https://github.com/fazlio", "text": "Github"},
-      {"url": "https://dribbble.com/fazli", "text": "Dribbble"}
+      {
+        "url": "https://behance.net/fazlitemizel",
+        "text": "Behance"
+      },
+      {
+        "url": "https://github.com/fazlio",
+        "text": "Github"
+      },
+      {
+        "url": "https://dribbble.com/fazli",
+        "text": "Dribbble"
+      }
     ]
   }
 }
